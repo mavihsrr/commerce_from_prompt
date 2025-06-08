@@ -1,0 +1,49 @@
+{
+  "businessInfo": {
+    "name": "Bangalore Bakes",
+    "slogan": "Homemade Delights in Every Bite"
+  },
+  "design": {
+    "theme": "cozy",
+    "palette": {
+      "primary": "#E4B7A0",
+      "secondary": "#D17767",
+      "background": "#FFF3EE",
+      "text": "#5D4037"
+    },
+    "font": {
+      "headings": "Merriweather",
+      "body": "Roboto"
+    }
+  },
+  "content": {
+    "heroTitle": "Freshly Baked Cookies from Bangalore",
+    "heroSubtitle": "Experience the taste of homestyle baking",
+    "aboutSection": "Bangalore Bakes brings you the homestyle taste of freshly baked cookies. Based in Bangalore, we use traditional recipes and the finest local ingredients to provide you with a delightful taste experience that feels like home."
+  },
+  "initialProducts": [
+    {
+      "id": 1,
+      "name": "Classic Chocolate Chip",
+      "description": "Rich and gooey chocolate chip cookies with a crunch.",
+      "price": 150,
+      "imageUrl": "/placeholder.svg"
+    },
+    {
+      "id": 2,
+      "name": "Red Velvet Surprise",
+      "description": "Soft red velvet cookies with cream cheese flavor.",
+      "price": 180,
+      "imageUrl": "/placeholder.svg"
+    },
+    {
+      "id": 3,
+      "name": "Oatmeal Raisin Magic",
+      "description": "Warm, chewy oatmeal cookies dotted with sweet raisins.",
+      "price": 120,
+      "imageUrl": "/placeholder.svg"
+    }
+  ],
+  "logoPrompt": "a minimalist logo for a cookie shop featuring a stylized cookie and heart, vector art",
+  "logoUrl": "/logos/bangalore-bakes-logo.png"
+}

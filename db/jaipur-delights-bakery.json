@@ -1,0 +1,49 @@
+{
+  "businessInfo": {
+    "name": "Jaipur Delights Bakery",
+    "slogan": "Baked with Love in Jaipur"
+  },
+  "design": {
+    "theme": "cozy",
+    "palette": {
+      "primary": "#E17B65",
+      "secondary": "#FFD34E",
+      "background": "#FAF0E6",
+      "text": "#403D39"
+    },
+    "font": {
+      "headings": "Amatic SC",
+      "body": "Lato"
+    }
+  },
+  "content": {
+    "heroTitle": "Welcome to Jaipur Delights!",
+    "heroSubtitle": "Experience the Homemade Goodness",
+    "aboutSection": "At Jaipur Delights Bakery, we pride ourselves on bringing the traditional tastes of home-baked goods to your table. Using time-honored recipes and the finest ingredients, we create pastries that warm the heart and delight the senses. Located in the heart of Jaipur, come and taste a piece of local heritage in every bite."
+  },
+  "initialProducts": [
+    {
+      "id": 1,
+      "name": "Classic Cinnamon Rolls",
+      "description": "Delightfully soft cinnamon rolls, topped with a sweet glaze and a hint of spice—the perfect comfort treat!",
+      "price": 150,
+      "imageUrl": "/placeholder.svg"
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Chip Cookies",
+      "description": "Crispy on the edges, soft in the middle, our chocolate chip cookies are a chocolatey chunk of heaven.",
+      "price": 120,
+      "imageUrl": "/placeholder.svg"
+    },
+    {
+      "id": 3,
+      "name": "Jaipur Special Mava Kachori",
+      "description": "Our special Mava Kachori, a local delicacy with a sweet, rich filling wrapped in a flaky, crispy pastry.",
+      "price": 200,
+      "imageUrl": "/placeholder.svg"
+    }
+  ],
+  "logoPrompt": "a minimalist logo for a bakery shop featuring traditional Indian motifs and warm colors, vector art",
+  "logoUrl": "/logos/jaipur-delights-bakery-logo.png"
+}

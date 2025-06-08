@@ -1,0 +1,49 @@
+{
+  "businessInfo": {
+    "name": "Jaipur Delight Bakes",
+    "slogan": "Baked with Love, Served with Joy"
+  },
+  "design": {
+    "theme": "homestyle",
+    "palette": {
+      "primary": "#D2691E",
+      "secondary": "#FFF5EE",
+      "background": "#FFF8DC",
+      "text": "#6B4423"
+    },
+    "font": {
+      "headings": "Tangerine",
+      "body": "Roboto"
+    }
+  },
+  "content": {
+    "heroTitle": "Freshly Baked Everyday",
+    "heroSubtitle": "Experience the taste of homemade delights",
+    "aboutSection": "Jaipur Delight Bakes offers you a tasty range of home-style baked goods, crafted lovingly by local artisans, using traditional recipes and the finest ingredients. Visit us for a sweet taste of Jaipur!"
+  },
+  "initialProducts": [
+    {
+      "id": 1,
+      "name": "Classic Butter Croissant",
+      "description": "Flaky, buttery, and light, our classic croissants are a perfect start to your day.",
+      "price": 50,
+      "imageUrl": "/placeholder.svg"
+    },
+    {
+      "id": 2,
+      "name": "Artisanal Sourdough Bread",
+      "description": "Our sourdough bread is made using a traditional slow ferment process for a deliciously tangy flavor and chewy texture.",
+      "price": 85,
+      "imageUrl": "/placeholder.svg"
+    },
+    {
+      "id": 3,
+      "name": "Rajasthani Ghevar Cake",
+      "description": "Indulge in this traditional Rajasthani treat, crafted with meticulous care to offer you a taste of the local heritage.",
+      "price": 120,
+      "imageUrl": "/placeholder.svg"
+    }
+  ],
+  "logoPrompt": "a minimalist logo of a stylized cake and bread, vector art",
+  "logoUrl": "/logos/jaipur-delight-bakes-logo.png"
+}
